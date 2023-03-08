@@ -14,10 +14,12 @@ In Model-Driven Engineering, metamodels define the vocabulary of concepts and re
 The search strategy has been defined by answering the following four W-questions [1] -**Which?**, **Where?**, **What?**, and **When?**.
 
 - **Which?** Automatic and manual searches were performed for relevant papers from conferences and journals.
-- **Where?** The defined search strategy has been applied to digital libraries available online, in which we selected the following four to run the automated search to guarantee a certain level of quality of relevant papers: \textit{IEEE Xplore}\footnote{\url{https://ieeexplore.ieee.org/Xplore/home.jsp}},
-   \textit{Scopus}\footnote{\url{https://bit.ly/3m4T74d}},
-    \textit{Association for Computing Machinery (ACM)}\footnote{\url{https://www.acm.org/}},
-     \textit{dblp computer science bibliography}\footnote{\url{https://dblp.uni-trier.de/}}, and \textit{Springer}\footnote{\url{https://www.springer.com/}}.
+- **Where?** The defined search strategy has been applied to digital libraries available online, in which we selected the following four to run the automated search to guarantee a certain level of quality of relevant papers:
+   - **IEEE Xplore**: https://ieeexplore.ieee.org/Xplore/home.jsp,
+   - **Scopus**: https://bit.ly/3m4T74d,
+   - **Association for Computing Machinery (ACM)**: https://www.acm.org/
+   - **dblp computer science bibliography**: https://dblp.uni-trier.de/
+   - **Springer**: https://www.springer.com/
 
 -**What?** We defined a query string to be executed on different digital resources to collect papers. To this end, the \textit{query string} that we conceived is the following\footnote{We reported one of the strings executed on one of the digital libraries, the others are equivalent but with different syntax and operators.}:
 
