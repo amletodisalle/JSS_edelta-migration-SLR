@@ -51,4 +51,4 @@ The extraction process generated 194 papers and we applied the filtering criteri
 
 
 ## References
-1. sasss
+1. H. Zhang, M. A. Babar, and P. Tell. Identifying relevant studies in software engineering. Information and Software Technology, 53(6):625–637, 2011.
