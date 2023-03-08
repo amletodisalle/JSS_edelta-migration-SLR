@@ -24,7 +24,8 @@ The search strategy has been defined by answering the following four W-questions
 - **What?**: We defined a query string to be executed on different digital resources to collect papers. To this end, the \textit{query string} that we conceived is the following\footnote{We reported one of the strings executed on one of the digital libraries, the others are equivalent but with different syntax and operators.}:
 
 
-**Search String**:}
+**Search String**:
+
 (Title:("model migration") OR Title:("model co-evolution")) AND (Fulltext:(MDE) OR Fulltext:(Model Driven Engineering))
 
 For each paper collected, its title and abstract were extracted.
