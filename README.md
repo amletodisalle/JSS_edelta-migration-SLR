@@ -21,7 +21,7 @@ The search strategy has been defined by answering the following four W-questions
    - **dblp computer science bibliography**: https://dblp.uni-trier.de/
    - **Springer**: https://www.springer.com/
 
--**What?**: We defined a query string to be executed on different digital resources to collect papers. To this end, the \textit{query string} that we conceived is the following\footnote{We reported one of the strings executed on one of the digital libraries, the others are equivalent but with different syntax and operators.}:
+- **What?**: We defined a query string to be executed on different digital resources to collect papers. To this end, the \textit{query string} that we conceived is the following\footnote{We reported one of the strings executed on one of the digital libraries, the others are equivalent but with different syntax and operators.}:
 
 
 **Search String**:}
@@ -42,7 +42,7 @@ exclusion criteria (E) of our study are reported in the following:
 - **E4**: Studies or tools working on artifacts that are not modeling artifacts, e.g., code adaptation. 
 - **E5**: Studies not reporting clear examples of the application of the migration pattern.
 
-**When?**: We considered papers that have been published in the period 2005-2022
+- **When?**: We considered papers that have been published in the period 2005-2022
 
 The extraction process generated 194 papers and we applied the filtering criteria to get 69 papers
 
