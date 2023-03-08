@@ -46,9 +46,9 @@ exclusion criteria (E) of our study are reported in the following:
 
 - **When?**: We considered papers that have been published in the period 2005-2022
 
-The extraction process generated 194 papers and we applied the filtering criteria to get 69 papers
+The extraction process generated 194 papers and we applied the filtering criteria to get 68 papers. You can find the initial papers and final studies at the following [excel file] ()
 
-At the end of the process, we obtained a set of [171 primary studies](final-studies.xlsx).
+
 
 ## References
 1. sasss
