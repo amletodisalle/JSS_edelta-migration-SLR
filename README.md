@@ -19,15 +19,17 @@ The search strategy has been defined by answering the following four W-questions
    - **Scopus**: https://bit.ly/3m4T74d,
    - **Association for Computing Machinery (ACM)**: https://www.acm.org/
    - **dblp computer science bibliography**: https://dblp.uni-trier.de/
-   - **Springer**: https://www.springer.com/
+   - **Springer Link**: https://link.springer.com/
 
 - **What?**: We defined a query string to be executed on different digital resources to collect papers. To this end, the **query string** that we conceived is the following: 
 
 **Search String**:
 
-(Title:("model migration") OR Title:("model co-evolution")) AND (Fulltext:(MDE) OR Fulltext:(Model Driven Engineering))
+(Title:("model migration") OR Title:("model co-evolution") OR Title:("model adaptation")) AND (Fulltext:(MDE) OR Fulltext:(Model Driven Engineering))
 
 Note that we reported one of the strings executed on one of the digital libraries, the others are equivalent but with different syntax and operators.
+
+Springer Link’s search engine does not allow a combined full-text or title search. Therefore, we limit the search to article titles, i.e.,  "model migration", "model co-evolution", and "model adaptation". As for Scopus, it does not permit full-text searching. Therefore, we limit the search to titles, keywords, and abstracts for "MDE" and "model driven engineering" keywords.
 
 For each paper collected, its title and abstract were extracted.
 The selection criteria used for this study are organized in inclusion criteria (I):
