@@ -40,14 +40,14 @@ Figure shows the process of searching and selecting relevant studies from the de
 **Merge and duplicate removal:** We combined papers from the five sources into a single corpus and removed duplicates, resulting in 169 studies.
 
 **Application of selection criteria 1st round:** During the first phase of study selection, the second and third authors examined the titles and abstracts of the studies and identified potential studies based on the following selection criteria. The authors included studies if they could not judge them by only reading the titles and abstracts. The selection criteria are organized in inclusion criteria (I):
-I1 Studies subject to peer review;
-I2 Studies that propose a tool-supported approach;
-I3 Studies that clearly mention or propose migration patterns, i.e., evolution of the metamodel and corresponding migration strategy of the model;
+- **I1** Studies subject to peer review;
+- **I2** Studies that propose a tool-supported approach;
+- **I3** Studies that clearly mention or propose migration patterns, i.e., evolution of the metamodel and corresponding migration strategy of the model;
 whereas the exclusion criteria (E) of our study are reported in the following:
-E1 Papers that are not written in English;
-E2 Short papers, tutorial slides, or technical reports;
-E3 Studies or tools working on artifacts that are not modeling artifacts, e.g., code adaptation. 
-E4 Studies not reporting clear examples of the application of the migration pattern that do not permit the formalization of a clear migration pattern.
+- **E1** Papers that are not written in English;
+- **E2** Short papers, tutorial slides, or technical reports;
+- **E3** Studies or tools working on artifacts that are not modeling artifacts, e.g., code adaptation. 
+- **E4** Studies not reporting clear examples of the application of the migration pattern that do not permit the formalization of a clear migration pattern.
 After the first round, 49 studies have been identified.
 
 **Application of selection criteria 2nd round:** The second and third authors independently read the full papers coming from the first round. They made the final decision on whether a study should be selected or not. If a study was considered controversial, all the authors discussed it and agreed on whether it should be included. At the end of the second round, 14 studies have been selected.
