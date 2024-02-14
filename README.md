@@ -1,6 +1,6 @@
 # Supporting Reusable Model Migration with Edelta
 - Lorenzo Bettini (Università degli studi Firenze, Firenze, Italy)
-- Amleto Di Salle (Università Europea di Roma, Roma, Italy)
+- Amleto Di Salle (Gran Sasso Science Institute, L'Aquila, Italy)
 - Ludovico Iovino (Gran Sasso Science Institute, L'Aquila, Italy)
 - Alfonso Pierantonio (Università degli studi dell'Aquila, L'Aquila, Italy)
 
